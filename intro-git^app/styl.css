@@ -1,0 +1,16 @@
+/* Version 1.0 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-content{
+    background-color:#e74c3c;
+    color: #ecf0f1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right:0;
+    left:0;
+    padding:2rem;
+}
