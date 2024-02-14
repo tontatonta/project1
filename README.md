@@ -14,6 +14,8 @@ outputfile　は出力するHTML形式のファイル
 
 ## Guessthenumbergame
 # 概要
+シェルを通して python3 Guessthenumbergame.pyというコマンドを実行することで開始する．
+
 入力した最小値と最大値の範囲内で乱数を生成し，生成された乱数を正解するまで答え続ける．正解後，答えた回数を表示する．
 
 入力は，最小値，最大値の順番で入力する．
@@ -21,3 +23,10 @@ outputfile　は出力するHTML形式のファイル
 
 ## File_manuplator
 # 概要
+[python3 File_manuplator.py reverse inputpath outputpath]を実行することでoutputpath に inputpath の内容を逆にした新しいファイルを作成する．
+
+[python3 File_manuplator.py copy inputpath outputpath]を実行することでinputpath にあるファイルのコピーを作成し、outputpath として保存する．
+
+[python3 File_manuplator.py duplicate-contents inputpath n]を実行することでinputpath にあるファイルの内容を読み込み、その内容を複製し、複製された内容を inputpath に n 回複製する．
+
+[python3 File_manuplator.py replace-string inputpath word1 word2]を実行することで inputpath にあるファイルの内容から文字列 'needle' を検索し、'word1' の全てを 'word2' に置き換えます。
