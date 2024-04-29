@@ -13,7 +13,13 @@
 ###例
 `python3 MarkdowntoHTMLconverter.py markdown inputfile.md outputfile.html`
 
+`inputfile.md`
+
 ![スクリーンショット 2024-04-30 084600](https://github.com/tontatonta/project1/assets/148293712/bb13534d-df2c-40dd-89b2-0ae67824b478)
+
+`outputfile.html`
+
+![2024-04-30 084419](https://github.com/tontatonta/project1/assets/148293712/a1f19458-877c-4699-9442-f34bc798d059)
 
 ## Guessthenumbergame
 # 概要
