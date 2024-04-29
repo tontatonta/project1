@@ -4,17 +4,17 @@
 
 シェルを通して `python3 MarkdowntoHTMLconverter.py markdown inputfile outputfile` というコマンドを実行することで変換する．
 
-markdown　は実行するコマンド
+`markdown`　は実行するコマンド
 
-inputfile　は入力するマークダウン形式のファイル
+`inputfile`　は入力するマークダウン形式のファイル
 
-outputfile　は出力するHTML形式のファイル
+`outputfile`　は出力するHTML形式のファイル
 
 
 
 ## Guessthenumbergame
 # 概要
-シェルを通して python3 Guessthenumbergame.pyというコマンドを実行することで開始する．
+シェルを通して `python3 Guessthenumbergame.py` というコマンドを実行することで開始する．
 
 入力した最小値と最大値の範囲内で乱数を生成し，生成された乱数を正解するまで答え続ける．正解後，答えた回数を表示する．
 
