@@ -10,8 +10,8 @@
 
 `outputfile`　は出力するHTML形式のファイル
 
-
-
+###例
+`python3 MarkdowntoHTMLconverter.py markdown inputfile.md outputfile.html`
 ## Guessthenumbergame
 # 概要
 シェルを通して `python3 Guessthenumbergame.py` というコマンドを実行することで開始する．
