@@ -2,7 +2,7 @@
 # 概要
 マークダウン形式のテキストをHTMLに変換するプログラム．
 
-シェルを通して python3 MarkdowntoHTMLconverter.py markdown inputfile outputfile というコマンドを実行することで変換する．
+シェルを通して `python3 MarkdowntoHTMLconverter.py markdown inputfile outputfile` というコマンドを実行することで変換する．
 
 markdown　は実行するコマンド
 
