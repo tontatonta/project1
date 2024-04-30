@@ -29,6 +29,12 @@
 
 入力は，最小値，最大値の順番で入力する．
 
+###例
+
+`python3 Guessthenumbergame.py`
+
+![スクリーンショット 2024-04-30 121154](https://github.com/tontatonta/project1/assets/148293712/4f342f37-8596-4aca-9a05-de8916c4aec4)
+
 
 ## File_manuplator
 # 概要
