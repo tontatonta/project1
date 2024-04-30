@@ -45,3 +45,14 @@
 `python3 File_manipulator.py duplicate-contents inputpath n`を実行することで `inputpath` にあるファイルの内容を読み込み、その内容を複製し、複製された内容を `inputpath` に n 回複製する．
 
 `python3 File_manipulator.py replace-string inputpath word1 word2` を実行することで `inputpath` にあるファイルの内容から文字列 `word1` を検索し、`word1` の全てを `word2` に置き換えます。
+
+###例
+`python3 File_manipulator.py reverse inputfile.txt outputfile.txt`
+
+入力する`inputfile.txt`
+
+![スクリーンショット 2024-04-30 122852](https://github.com/tontatonta/project1/assets/148293712/8687541b-2769-4cc1-8304-653b7dffc075)
+
+出力された`outputfile.txt`
+
+![スクリーンショット 2024-04-30 122910](https://github.com/tontatonta/project1/assets/148293712/efe9bee4-57d8-4fbf-8c8e-2d807f3eb7b3)
