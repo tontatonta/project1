@@ -8,7 +8,7 @@ sys.stdout.buffer.write(b'select the maximum number\n')
 sys.stdout.flush()
 m = int(sys.stdin.buffer.readline())
 ans = random.randint(n,m)
-count = 1
+count = 0
 player = ans - 1
 while True:
     if player == ans:
