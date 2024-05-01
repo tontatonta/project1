@@ -46,7 +46,7 @@
 
 `python3 File_manipulator.py replace-string inputpath word1 word2` を実行することで `inputpath` にあるファイルの内容から文字列 `word1` を検索し、`word1` の全てを `word2` に置き換えます。
 
-###例
+### 例
 `python3 File_manipulator.py reverse inputfile.txt outputfile.txt`
 
 入力する`inputfile.txt`
